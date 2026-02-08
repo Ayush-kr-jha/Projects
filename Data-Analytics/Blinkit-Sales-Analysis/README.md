@@ -154,7 +154,7 @@ Without a unified analytics view, these insights were scattered across raw data 
 ### Dashboard Overview
 ![Dashboard Preview](dashboard_overview.png)
 <!--<img width="1371" height="721" alt="image" src="https://github.com/user-attachments/assets/9dd27c17-fa39-48b7-bc05-2a206f033bff" />-->
-![Dashboard Preview PDF](dashboard_overview.pdf)
+[Dashboard Preview PDF](dashboard_overview.pdf)
 
 *Full interactive dashboard showing all KPIs and visualizations*
 
