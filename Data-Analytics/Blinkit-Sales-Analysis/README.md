@@ -218,7 +218,7 @@ For data validation and ad-hoc analysis, SQL queries used during exploration are
 
 ## 📬 Contact & Feedback
 
-**LinkedIn:** [https://www.linkedin.com/in/ayushjhaak/]   
+**LinkedIn:** https://www.linkedin.com/in/ayushjhaak/   
 **Email:** ayushkumarjha737@gmail.com
 
 Found this useful? ⭐ Star this repo and share feedback!
@@ -231,6 +231,6 @@ This project is for educational and portfolio purposes. Dataset sourced from Kag
 
 ---
 
-**Built with 📊 by [Ayush kumar jha] | January 2026**
+**Built with 📊 by Ayush kumar jha | January 2026**
 
 
